@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @ntworm
-- 👀 I’m interested in Hydra.js, P5.js, generative art and live coding for visuals and music
-- 🌱 I’m currently learning generative music using Web Audio Api
-- 💞️ I’m looking to collaborate on fxhash projects
-- 📫 How to reach me >>> twitter
+# ntworm
 
-<!---
-ntworm/ntworm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Programador de **audio + visual tooling** for live performance.
+
+- Ableton Live extensions (TypeScript, Max for Live, Extensions SDK)
+- Generative art on [fxhash](https://fxhash.xyz/u/ntworm) � Hydra.js + P5.js
+- Web Audio API, OSC, sensor-driven control
+
+Atualmente mantendo [Ableton RC Surface](https://github.com/ntworm/ableton-rc-surface) � open-source Ableton extension (MIT).
+
+?? [@nt_worm](https://twitter.com/nt_worm)
