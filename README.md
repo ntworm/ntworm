@@ -1,11 +1,12 @@
 # ntworm
 
-Programador de **audio + visual tooling** for live performance.
+🛠️ Generalist programmer — audio, web, APIs.
 
-- Ableton Live extensions (TypeScript, Max for Live, Extensions SDK)
-- Generative art on [fxhash](https://fxhash.xyz/u/ntworm) — Hydra.js + P5.js
-- Web Audio API, OSC, sensor-driven control
+🎧 Currently shipping Ableton Live extensions.
+🎛️ Audio tooling on the side.
+🌐 Always something new on the workbench.
 
-Atualmente mantendo [Ableton RC Surface](https://github.com/ntworm/ableton-rc-surface) — open-source Ableton extension (MIT).
+🔗 [ableton-rc-surface](https://github.com/ntworm/ableton-rc-surface) — main project (MIT)
+📦 More in my [other repos](https://github.com/ntworm?tab=repositories)
 
 🐦 [@nt_worm](https://twitter.com/nt_worm)
