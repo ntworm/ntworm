@@ -1,6 +1,6 @@
 <!-- Hero -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2EC4B6&center=true&vCenter=true&width=600&lines=Sound+%2B+Code+%2B+Tools;Built+for+Ableton+Live;Based+in+Palmas%2C+Brazil" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2EC4B6&center=true&vCenter=true&width=600&lines=Sound+%2B+Code+%2B+Tools;Generative+art+and+music;Custom+interfaces+for+live+performance" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,22 +12,25 @@
 
 ---
 
-### I work with sound, and I build tools for people who work with sound.
+### I work with sound, and I'm learning to build tools for people who work with sound.
 
-Sound producer + editor + designer for film and animation, based in Palmas, Brazil.
+Sound producer + editor + designer for film and animation.
 Trained in Sound Science and Technology at Universidade Lusófona (Lisbon).
+Based in Palmas, Brazil.
 
-I also ship software — most of it ends up in or around Ableton Live.
+My practice runs from conceiving sound — its social and perceptual impact, working with subtext and semiotics — to writing code that helps me and others perform with it. Most of what I build ends up in or around Ableton Live, in the form of Max4Live devices and small tools for live performance.
+
+I'm a generalist by nature — it's easier to list where I haven't worked than where I have. The term that fits best is "Jack of all trades, master of none."
 
 ---
 
-### 🔧 What I'm shipping
+### 🔧 What I'm building
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/ntworm/ableton-rc-surface">ableton-rc-surface</a></h3>
-      <p align="center">Turn any phone browser into a wireless MIDI + multi-sensor controller for Ableton Live. Pads, XY, knobs, sensor mappings. MIT.</p>
+      <p align="center">Max4Live device turning any phone browser into a wireless MIDI + multi-sensor controller for Ableton Live. MIT, in development.</p>
       <p align="center">
         <img src="https://img.shields.io/github/stars/ntworm/ableton-rc-surface?style=social" alt="stars"/>
         <img src="https://img.shields.io/github/forks/ntworm/ableton-rc-surface?style=social" alt="forks"/>
@@ -61,15 +64,6 @@ I also ship software — most of it ends up in or around Ableton Live.
 **Creative coding** — Max/MSP · Max4Live · TouchDesigner · JavaScript · TypeScript · livecoding
 **Web** — Astro · Web Audio API · MIDI · OSC · MediaPipe (vision/sensor)
 **Tools I trust** — Git · ffmpeg · OBS · Ardour · Reaper
-
----
-
-### 🎧 Currently
-
-- Directing and editing sound for a Portuguese horror short (post-production)
-- Building **ableton-setlist-bridge** for live performance
-- Contributing to Ableton Live extensions documentation
-- Reading communities (Ableton Discord, Intelligent Instruments Lab)
 
 ---
 
