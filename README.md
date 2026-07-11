@@ -1,6 +1,6 @@
 <!-- Hero -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2EC4B6&center=true&vCenter=true&width=600&lines=Sound+%2B+Code+%2B+Tools;Generative+art+and+music;Custom+interfaces+for+live+performance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2EC4B6&center=true&vCenter=true&width=600&lines=Sound+%2B+Code+%2B+Tools;Generative+art+and+music;Custom+interfaces+for+performance" alt="Typing SVG" />
 </h1>
 
 <p align="center">
