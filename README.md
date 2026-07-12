@@ -1,87 +1,96 @@
-<!-- Hero -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2EC4B6&center=true&vCenter=true&width=600&lines=Sound+%2B+Code+%2B+Tools;Generative+art+and+music;Custom+interfaces+for+performance" alt="Typing SVG" />
-</h1>
+<div align="center">
+
+  <a href="https://ntworm.github.io/">
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=27&duration=3200&pause=900&color=F2B94B&center=true&vCenter=true&width=760&lines=Sound+direction+%C2%B7+Music+production;Creative+tools+for+performance;Cinema+%C2%B7+Sound+%C2%B7+Code" alt="Sound direction, music production, and creative tools for performance" />
+  </a>
+
+  <img src="./assets/signal.svg" width="760" alt="Animated audio signal moving between sound and code" />
+
+  <p>
+    <a href="https://ntworm.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-ntworm.github.io-F2B94B?style=for-the-badge&logo=githubpages&logoColor=111111" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/gabrielworm"><img src="https://img.shields.io/badge/LinkedIn-gabrielworm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://news.ycombinator.com/user?id=gabrielworm"><img src="https://img.shields.io/badge/Hacker_News-gabrielworm-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white" alt="Hacker News" /></a>
+    <a href="https://discord.com/users/gabworm"><img src="https://img.shields.io/badge/Discord-@gabworm-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+    <a href="https://www.imdb.com/name/nm16356368/"><img src="https://img.shields.io/badge/IMDb-Gabriel_Worm-F5C518?style=for-the-badge&logo=imdb&logoColor=111111" alt="IMDb" /></a>
+  </p>
+
+</div>
+
+## A sound director working between cinema, music, and code.
+
+I compose, record, edit, mix, and build instruments for cinema, performance, and live music. My practice moves between **film sound**, **music production**, and **creative tooling** — usually somewhere around Ableton Live, Max4Live, audiovisual systems, and the people performing with them.
+
+Based in **Palmas, Tocantins, Brazil**. Trained in Sound Science and Technology at Universidade Lusófona in Lisbon. Author of **[RC Surface](https://github.com/ntworm/ableton-rc-surface)**, an open-source Ableton Live extension that turns a phone into a wireless MIDI and multi-sensor controller.
+
+My practice is deliberately generalist: I care about the idea, the signal path, the interface, and the final experience.
 
 <p align="center">
-  <a href="https://gabrielwm2.wixsite.com/portfolio"><img src="https://img.shields.io/badge/portfolio-gabrielwm2.wixsite.com-2EC4B6?style=flat-square" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/gabrielworm"><img src="https://img.shields.io/badge/LinkedIn-gabrielworm-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://news.ycombinator.com/user?id=gabrielworm"><img src="https://img.shields.io/badge/HN-gabrielworm-FF6600?style=flat-square" alt="Hacker News"/></a>
-  <a href="https://discord.com/users/gabworm"><img src="https://img.shields.io/badge/Discord-gabworm-5865F2?style=flat-square&logo=discord" alt="Discord"/></a>
+  <a href="https://ntworm.github.io/"><strong>Explore selected work →</strong></a>
 </p>
 
 ---
 
-### I work with sound, and I'm learning to build tools for people who work with sound.
-
-Sound producer + editor + designer for film and animation.
-Trained in Sound Science and Technology at Universidade Lusófona (Lisbon).
-Based in Palmas, Brazil.
-
-My practice runs from conceiving sound — its social and perceptual impact, working with subtext and semiotics — to writing code that helps me and others perform with it. Most of what I build ends up in or around Ableton Live, in the form of Max4Live devices and small tools for live performance.
-
-I'm a generalist by nature — it's easier to list where I haven't worked than where I have. The term that fits best is "Jack of all trades, master of none."
-
----
-
-### 🔧 What I'm building
+## Currently building
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/ntworm/ableton-rc-surface">ableton-rc-surface</a></h3>
-      <p align="center">Max4Live device turning any phone browser into a wireless MIDI + multi-sensor controller for Ableton Live. MIT, in development.</p>
+      <h3 align="center">RC Surface</h3>
+      <p>A Max4Live device that turns any phone browser into a wireless MIDI + multi-sensor controller for Ableton Live: performance pads, physics XY pads, motion, orientation, audio, and vision mappings.</p>
       <p align="center">
-        <img src="https://img.shields.io/github/stars/ntworm/ableton-rc-surface?style=social" alt="stars"/>
-        <img src="https://img.shields.io/github/forks/ntworm/ableton-rc-surface?style=social" alt="forks"/>
+        <a href="https://github.com/ntworm/ableton-rc-surface"><strong>Source</strong></a> ·
+        <a href="https://ntworm.github.io/ableton-rc-surface/"><strong>Project page</strong></a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/ntworm/ableton-rc-surface?style=flat-square&color=F2B94B" alt="RC Surface stars" />
+        <img src="https://img.shields.io/github/license/ntworm/ableton-rc-surface?style=flat-square&color=2EC4B6" alt="RC Surface license" />
+        <img src="https://img.shields.io/github/last-commit/ntworm/ableton-rc-surface?style=flat-square" alt="RC Surface last commit" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/ntworm/ableton-setlist-bridge">ableton-setlist-bridge</a></h3>
-      <p align="center">Live performance setlists inside Ableton Live. In development.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/ntworm/Fxhash_Template_HYDRA_with_P5">Fxhash_Template_HYDRA_with_P5</a></h3>
-      <p align="center">Hydra.js + p5.js boilerplate for fxhash generative sketches (2022). Paused.</p>
+      <h3 align="center">Sound & Code — Portfolio</h3>
+      <p>Selected work across cinema, music production, live sound, generative audiovisual practice, and creative tools — with full project notes, credits, images, and links.</p>
       <p align="center">
-        <img src="https://img.shields.io/github/stars/ntworm/Fxhash_Template_HYDRA_with_P5?style=social" alt="stars"/>
+        <a href="https://ntworm.github.io/"><strong>Visit the portfolio</strong></a> ·
+        <a href="https://github.com/ntworm/ntworm.github.io"><strong>Source</strong></a>
       </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/ntworm/ntworm.github.io">ntworm.github.io</a></h3>
-      <p align="center">Sound direction, music production, and creative tooling. The site you're looking for.</p>
+      <p align="center">
+        <img src="https://img.shields.io/github/deployments/ntworm/ntworm.github.io/github-pages?style=flat-square&label=GitHub%20Pages&color=2EC4B6" alt="Portfolio deployment" />
+        <img src="https://img.shields.io/github/last-commit/ntworm/ntworm.github.io?style=flat-square" alt="Portfolio last commit" />
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Stack
+## Practice
 
-**Audio** — Pro Tools · Ableton Live · location sound (MS + Schoeps) · sound editing & design for film and animation
-**Creative coding** — Max/MSP · Max4Live · TouchDesigner · JavaScript · TypeScript · livecoding
-**Web** — Astro · Web Audio API · MIDI · OSC · MediaPipe (vision/sensor)
-**Tools I trust** — Git · ffmpeg · OBS · Ardour · Reaper
+- **Film sound** — sound direction, editing, design, dialogue, mixing, and location sound for film, animation, documentary, and television.
+- **Music production** — composition, recording, production, mix, and master for independent artists and live sessions.
+- **Creative tools** — Max/MSP, Max4Live, Web Audio, MIDI, OSC, sensors, and interfaces built for real performance contexts.
+- **Generative audiovisual work** — reactive systems using Hydra.js, Max, Ableton Live, and browser technologies. See the work on **[fxhash](https://www.fxhash.xyz/u/nt_worm)**.
+
+## Selected tools
+
+| | |
+|---|---|
+| **Audio & post** | Pro Tools · Ableton Live · Reaper · Ardour · location sound · ffmpeg |
+| **Creative coding** | Max/MSP · Max4Live · TouchDesigner · Hydra.js · live coding |
+| **Web & protocols** | JavaScript · TypeScript · Astro · Web Audio API · MIDI · OSC · MediaPipe |
 
 ---
 
-### 📫 Reach me
+## Find me
 
-- **Email** — `gabrielwormm [at] gmail.com`
-- **LinkedIn** — [linkedin.com/in/gabrielworm](https://linkedin.com/in/gabrielworm)
-- **Discord** — `@gabworm`
-- **Portfolio** — [gabrielwm2.wixsite.com/portfolio](https://gabrielwm2.wixsite.com/portfolio)
+The fastest routes are **[email](mailto:gabrielwormm@gmail.com)**, **[LinkedIn](https://linkedin.com/in/gabrielworm)**, or Discord at **`@gabworm`**. For credits and finished work, visit **[ntworm.github.io](https://ntworm.github.io/)** or **[IMDb](https://www.imdb.com/name/nm16356368/)**.
 
----
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ntworm&color=2EC4B6&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/ntworm?style=social" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/ntworm?affiliations=OWNER&style=social" alt="stars owned"/>
-</p>
+  <a href="https://github.com/ntworm?tab=followers"><img src="https://img.shields.io/github/followers/ntworm?style=flat-square&label=followers&color=2EC4B6" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ntworm&color=F2B94B&style=flat-square&label=profile+views" alt="Profile views" />
 
-<p align="center">
-  <sub>"I do it because I love it, and I love it because of who I am."</sub>
-</p>
+  <br /><br />
+  <sub>“I do it because I love it, and I love it because of who I am.”</sub>
+
+</div>

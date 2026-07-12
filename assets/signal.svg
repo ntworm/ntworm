@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 76" role="img" aria-labelledby="title desc">
+  <title id="title">Animated sound signal</title>
+  <desc id="desc">A warm signal travels through a teal waveform, connecting sound and code.</desc>
+  <defs>
+    <linearGradient id="signal-gradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2ec4b6" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#2ec4b6"/>
+      <stop offset="0.52" stop-color="#f2b94b"/>
+      <stop offset="0.82" stop-color="#2ec4b6"/>
+      <stop offset="1" stop-color="#2ec4b6" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="soft-glow" x="-20%" y="-100%" width="140%" height="300%">
+      <feGaussianBlur stdDeviation="2.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <style>
+    .signal {
+      animation: signal-flow 3.6s linear infinite;
+      stroke-dasharray: 18 12;
+    }
+    .pulse {
+      animation: pulse 2.4s ease-in-out infinite;
+      transform-origin: center;
+    }
+    @keyframes signal-flow {
+      to { stroke-dashoffset: -60; }
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: .35; }
+      50% { opacity: 1; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .signal, .pulse { animation: none; }
+    }
+  </style>
+  <path d="M0 38 H90 L118 38 L134 17 L151 59 L170 28 L188 46 L207 38 H272 L290 38 L307 8 L324 68 L342 22 L360 54 L378 14 L396 62 L414 29 L431 47 L450 38 H520 L538 38 L555 20 L573 56 L590 31 L607 45 L624 38 H760"
+        fill="none" stroke="#2ec4b6" stroke-opacity=".18" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path class="signal" d="M0 38 H90 L118 38 L134 17 L151 59 L170 28 L188 46 L207 38 H272 L290 38 L307 8 L324 68 L342 22 L360 54 L378 14 L396 62 L414 29 L431 47 L450 38 H520 L538 38 L555 20 L573 56 L590 31 L607 45 L624 38 H760"
+        fill="none" stroke="url(#signal-gradient)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" filter="url(#soft-glow)"/>
+  <circle class="pulse" cx="378" cy="14" r="4" fill="#f2b94b" filter="url(#soft-glow)"/>
+</svg>
