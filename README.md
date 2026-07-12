@@ -20,7 +20,7 @@
 
 I compose, record, edit, mix, and build instruments for cinema, performance, and live music. My practice moves between **film sound**, **music production**, and **creative tooling** — usually somewhere around Ableton Live, Max4Live, audiovisual systems, and the people performing with them.
 
-Based in **Palmas, Tocantins, Brazil**. Trained in Sound Science and Technology at Universidade Lusófona in Lisbon. Author of **[RC Surface](https://github.com/ntworm/ableton-rc-surface)**, an open-source Ableton Live extension that turns a phone into a wireless MIDI and multi-sensor controller.
+Based in **Palmas, Tocantins, Brazil**. Trained in Sound Science and Technology at Universidade Lusófona in Lisbon. Author of **[RC Surface](https://github.com/ntworm/ableton-rc-surface)**, a source-available Ableton Live extension that turns a phone into a wireless MIDI and multi-sensor controller.
 
 My practice is deliberately generalist: I care about the idea, the signal path, the interface, and the final experience.
 
@@ -43,7 +43,7 @@ My practice is deliberately generalist: I care about the idea, the signal path, 
       </p>
       <p align="center">
         <img src="https://img.shields.io/github/stars/ntworm/ableton-rc-surface?style=flat-square&color=F2B94B" alt="RC Surface stars" />
-        <img src="https://img.shields.io/github/license/ntworm/ableton-rc-surface?style=flat-square&color=2EC4B6" alt="RC Surface license" />
+        <img src="https://img.shields.io/badge/license-PolyForm--Noncommercial-2EC4B6?style=flat-square" alt="PolyForm Noncommercial license" />
         <img src="https://img.shields.io/github/last-commit/ntworm/ableton-rc-surface?style=flat-square" alt="RC Surface last commit" />
       </p>
     </td>
