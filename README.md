@@ -34,7 +34,7 @@ My practice is deliberately generalist: I care about the idea, the signal path, 
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">RC Surface</h3>
       <p>A Max4Live device that turns any phone browser into a wireless MIDI + multi-sensor controller for Ableton Live: performance pads, physics XY pads, motion, orientation, audio, and vision mappings.</p>
       <p align="center">
@@ -47,7 +47,20 @@ My practice is deliberately generalist: I care about the idea, the signal path, 
         <img src="https://img.shields.io/github/last-commit/ntworm/ableton-rc-surface?style=flat-square" alt="RC Surface last commit" />
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3 align="center">RC Setlist</h3>
+      <p>Source-available Ableton Live extension that turns Arrangement locators into an operator setlist. Synchronized lyrics, tempo and click feedback, guarded transport, and a stage view served on the local network.</p>
+      <p align="center">
+        <a href="https://github.com/ntworm/rc-setlist"><strong>Source</strong></a> ·
+        <a href="https://ntworm.github.io/rc-setlist/"><strong>Project page</strong></a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/ntworm/rc-setlist?style=flat-square&color=F2B94B" alt="RC Setlist stars" />
+        <img src="https://img.shields.io/badge/license-PolyForm--Noncommercial-2EC4B6?style=flat-square" alt="PolyForm Noncommercial license" />
+        <img src="https://img.shields.io/github/last-commit/ntworm/rc-setlist?style=flat-square" alt="RC Setlist last commit" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
       <h3 align="center">Sound & Code — Portfolio</h3>
       <p>Selected work across cinema, music production, live sound, generative audiovisual practice, and creative tools — with full project notes, credits, images, and links.</p>
       <p align="center">
