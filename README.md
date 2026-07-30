@@ -20,8 +20,7 @@
 
 I compose, record, edit, mix, and build instruments for cinema, performance, and live music. My practice moves between **film sound**, **music production**, and **creative tooling** — usually somewhere around Ableton Live, Max4Live, audiovisual systems, and the people performing with them.
 
-Based in **Palmas, Tocantins, Brazil**. Trained in Sound Science and Technology at Universidade Lusófona in Lisbon. Author of **[RC Surface](https://github.com/ntworm/ableton-rc-surface)**, a source-available Ableton Live extension that turns a phone into a wireless MIDI and multi-sensor controller.
-
+Based in **Palmas, Tocantins, Brazil**. Trained in Sound Science and Technology at Universidade Lusófona in Lisbon. 
 My practice is deliberately generalist: I care about the idea, the signal path, the interface, and the final experience.
 
 <p align="center">
