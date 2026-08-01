@@ -35,7 +35,7 @@ My practice is deliberately generalist: I care about the idea, the signal path, 
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">RC Surface</h3>
-      <p>A Max4Live device that turns any phone browser into a wireless MIDI + multi-sensor controller for Ableton Live: performance pads, physics XY pads, motion, orientation, audio, and vision mappings.</p>
+      <p>An Ableton Live Extension that turns any phone browser into a wireless MIDI + multi-sensor controller for Ableton Live: performance pads, physics XY pads, motion, orientation, audio, and vision mappings.</p>
       <p align="center">
         <a href="https://github.com/ntworm/ableton-rc-surface"><strong>Source</strong></a> ·
         <a href="https://ntworm.github.io/ableton-rc-surface/"><strong>Project page</strong></a>
