@@ -37,13 +37,13 @@ My practice is deliberately generalist: I care about the idea, the signal path, 
       <h3 align="center">RC Surface</h3>
       <p>An Ableton Live Extension that turns any phone browser into a wireless MIDI + multi-sensor controller for Ableton Live: performance pads, physics XY pads, motion, orientation, audio, and vision mappings.</p>
       <p align="center">
-        <a href="https://github.com/ntworm/ableton-rc-surface"><strong>Source</strong></a> ·
-        <a href="https://ntworm.github.io/ableton-rc-surface/"><strong>Project page</strong></a>
+        <a href="https://github.com/ntworm/rc-surface"><strong>Source</strong></a> ·
+        <a href="https://ntworm.github.io/rc-surface/"><strong>Project page</strong></a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/github/stars/ntworm/ableton-rc-surface?style=flat-square&color=F2B94B" alt="RC Surface stars" />
+        <img src="https://img.shields.io/github/stars/ntworm/rc-surface?style=flat-square&color=F2B94B" alt="RC Surface stars" />
         <img src="https://img.shields.io/badge/license-PolyForm--Noncommercial-2EC4B6?style=flat-square" alt="PolyForm Noncommercial license" />
-        <img src="https://img.shields.io/github/last-commit/ntworm/ableton-rc-surface?style=flat-square" alt="RC Surface last commit" />
+        <img src="https://img.shields.io/github/last-commit/ntworm/rc-surface?style=flat-square" alt="RC Surface last commit" />
       </p>
     </td>
     <td width="50%" valign="top">
