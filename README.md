@@ -35,7 +35,7 @@ My practice is deliberately generalist: I care about the idea, the signal path, 
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">RC Surface</h3>
-      <p>An Ableton Live Extension that turns any phone browser into a wireless MIDI + multi-sensor controller for Ableton Live: performance pads, physics XY pads, motion, orientation, audio, and vision mappings.</p>
+      <p>An Ableton Live Extension that turns any phone browser into a wireless MIDI + multi-sensor controller for Ableton Live: performance pads, two XY pads (one with physics), motion, orientation, audio, and vision mappings.</p>
       <p align="center">
         <a href="https://github.com/ntworm/rc-surface"><strong>Source</strong></a> ·
         <a href="https://ntworm.github.io/rc-surface/"><strong>Project page</strong></a>
@@ -63,7 +63,7 @@ My practice is deliberately generalist: I care about the idea, the signal path, 
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Ableton MCP Server</h3>
-      <p>Model Context Protocol server for Ableton Live. Exposes 65 tools over TCP & WebSockets for AI agents (Claude, Antigravity, Codex) and developers to query, analyze, drive, and automate Live Sets.</p>
+      <p>Model Context Protocol server for Ableton Live. Exposes 97 tools over TCP & WebSockets for AI agents (Claude, Antigravity, Codex) and developers to query, analyze, drive, and automate Live Sets.</p>
       <p align="center">
         <a href="https://github.com/ntworm/ableton-mcp-server"><strong>Source</strong></a> ·
         <a href="https://ntworm.github.io/ableton-mcp-server/"><strong>Project page</strong></a>
