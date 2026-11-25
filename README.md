@@ -108,6 +108,16 @@ My practice is deliberately generalist: I care about the idea, the signal path, 
 
 ---
 
+## Support my work
+
+RC Surface, RC Setlist, Ableton MCP Server and the other tools here are built in my own time. If they are useful in your studio or on stage, you can support their development through GitHub Sponsors.
+
+<p align="center">
+  <a href="https://github.com/sponsors/ntworm"><img src="https://img.shields.io/badge/Sponsor-ntworm-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor ntworm on GitHub" /></a>
+</p>
+
+---
+
 ## Find me
 
 The fastest routes are **[email](mailto:gabrielwormm@gmail.com)**, **[LinkedIn](https://linkedin.com/in/gabrielworm)**, or Discord at **`@gabworm`**. For credits and finished work, visit **[ntworm.github.io](https://ntworm.github.io/)** or **[IMDb](https://www.imdb.com/name/nm16356368/)**.
