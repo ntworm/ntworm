@@ -18,6 +18,10 @@
 
 ## A sound director working between cinema, music, and code.
 
+<p>
+  <a href="https://github.com/sponsors/ntworm"><img src="https://img.shields.io/badge/Sponsor-ntworm-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor ntworm on GitHub" /></a>
+</p>
+
 I compose, record, edit, mix, and build instruments for cinema, performance, and live music. My practice moves between **film sound**, **music production**, and **creative tooling** — usually somewhere around Ableton Live, Max4Live, audiovisual systems, and the people performing with them.
 
 Based in **Palmas, Tocantins, Brazil**. Trained in Sound Science and Technology at Universidade Lusófona in Lisbon. 
@@ -105,16 +109,6 @@ My practice is deliberately generalist: I care about the idea, the signal path, 
 | **Audio & post** | Pro Tools · Ableton Live · Reaper · Ardour · location sound · ffmpeg |
 | **Creative coding** | Max/MSP · Max4Live · TouchDesigner · Hydra.js · live coding |
 | **Web & protocols** | JavaScript · TypeScript · Astro · Web Audio API · MIDI · OSC · MediaPipe |
-
----
-
-## Support my work
-
-RC Surface, RC Setlist, Ableton MCP Server and the other tools here are built in my own time. If they are useful in your studio or on stage, you can support their development through GitHub Sponsors.
-
-<p align="center">
-  <a href="https://github.com/sponsors/ntworm"><img src="https://img.shields.io/badge/Sponsor-ntworm-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor ntworm on GitHub" /></a>
-</p>
 
 ---
 
